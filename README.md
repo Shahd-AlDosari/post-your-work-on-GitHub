@@ -10,7 +10,9 @@ Udacity Bike-Share Project
 Run statistics on multiple data pools related to bicycle sharing.
 
 ### Files used
-Include the files used
+chicago.csv
+new_yourk_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
